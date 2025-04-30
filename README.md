@@ -1,0 +1,2 @@
+# TerminalPlatformGuide
+Terminal Platform Guide
